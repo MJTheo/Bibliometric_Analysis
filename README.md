@@ -17,5 +17,5 @@ To begin your journey, you can do a trial run of the script using the data that 
 
 This repository hopefully will be useful to help you on your journey to conduct Bibliometric Analysis research.
 
-Best Regards,
+Best Regards, <br>
 Authors
