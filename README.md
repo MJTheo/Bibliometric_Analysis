@@ -13,7 +13,7 @@ Before you continue, there is a couple of data that you need to have before usin
 - RIS file of the dataset that will be used in this script
 - VosViewer Map File, that will be discussed later
 
-To begin your journey, you can do a trial run of the script using the data that is available on this repository
+To begin your journey, you can do a trial run of the script using the sample data that is available in this repository
 
 This repository hopefully will be useful to help you on your journey to conduct Bibliometric Analysis research.
 
